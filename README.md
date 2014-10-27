@@ -16,3 +16,15 @@ support:  Board MEGAWAP_V2_AIO
 • BMP085 Barometer
 
 • HMC5883L Magnetometer //400kHz
+
+http://diydrones.com/profiles/blogs/arduino-due-32bit-quadrotor-testing-altitude-hold
+
+http://youtu.be/qNrovqSp3CU?list=UUK8SdBKqjdXghqlJf3-sZaQ
+
+https://www.facebook.com/tinnakonza
+
+http://www.youtube.com/user/tinnakon6094
+
+http://www.eng.rmutsb.ac.th/
+
+https://drive.google.com/#my-drive
