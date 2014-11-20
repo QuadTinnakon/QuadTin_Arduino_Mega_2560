@@ -58,13 +58,17 @@ Body Fixed Frame, Earth-Fixed frame
 2.4. การกำหนดค่าเริ่มต้นใน setup()
 2.5. การลดสัญญานรบกวน sensor , Low pass  filter
 2.6. การส่งข้อมูล RS232 data 22 byte
+
 โหลด Code ที่
 https://github.com/QuadTinnakon?tab=repositories
+
 เอกสาร
 https://drive.google.com/file/d/0B4UGzNJoSnKmVlNFeFpnNTFiZzA/view?usp=sharing
+
 เนื้อหาที่เกี่ยงข้องกับการพัฒนา
 Optical flow-based 
 http://www.dae.mi.th/aeroblog/?p=2796
+
 Kalman Filter
 http://library.rtna.ac.th/web/RTNA_Journal/y.4c.4/05.pdf
 
