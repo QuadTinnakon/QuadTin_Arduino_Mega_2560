@@ -19,7 +19,7 @@ support:  Board MEGAWAP_V2_AIO
 
 • HMC5883L Magnetometer //400kHz
 
-การเขียนโปรแกรม Quadrotor พื้นฐาน เรียบเรียงโดย ทินกร เขียวรี
+การเขียนโปรแกรม Quadrotor พื้นฐาน เรียบเรียงโดย ทินกร   เขียวรี  TK Quad 3D Shop
 หัวข้อที่ต้องรู้ในการเขียนโปรแกรม บอร์ด MEGAWAP_V2_AIO
 
 1.1. ความเร็วลูป 100 Hz, 50 Hz, 20 Hz, 10 Hz, 5 Hz, 1 Hz  
